@@ -1,0 +1,20 @@
+.system_message {
+    width: 400px;
+    background-color: #c8e4fe;
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin: 7px 135px;
+    float: left;
+}
+
+.message_container {
+    overflow: auto;
+    padding: 8px 24px;
+    height: 540px;
+}
+.loading_container {
+    position: absolute;
+    bottom: 40px;
+    width: 100%;
+    text-align: center;
+}

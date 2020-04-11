@@ -1,0 +1,193 @@
+.homes {
+	height: 100%;
+	width: 100%;
+	/* height: 770px; */
+	background: url("../../../statics/images/background2.png") no-repeat;
+	background-size: 100% 100%;
+	overflow: hidden;
+}
+/* 右边我的信息部分 */
+.rights {
+	width: 600px;
+	height: 500px;
+	/* background-color: #ccc; */
+	float: right;
+}
+
+
+
+/* 我的信息 */
+.user_message {
+	width: 600px;
+	height: 40px;
+	border-bottom: #f0f0f0 1px solid;
+}
+
+.p_user_message {
+	line-height: 40px;
+	padding: 0 10px;
+	color: #000;
+}
+
+.account {
+	width: 600px;
+	height: 80px;
+	border-bottom: #f0f0f0 1px solid;
+	position: relative;
+}
+
+/* 名称 */
+.user_names {
+	width: 600px;
+	height: 40px;
+	display: inline-block;
+	border-bottom: #f0f0f0 1px solid;
+	position: relative;
+}
+
+.div_tou {
+	width: 40px;
+	height: 40px;
+	/*background-color: #CCCCCC;*/
+	/* padding: 10px 10px; */
+	top: 10px;
+	left: 10px;
+	border-radius: 4px;
+	position: absolute;
+}
+
+.div_tous {
+	width: 40px;
+	height: 40px;
+	/*background-color: #E6E6E6;*/
+	/* padding: 10px 10px; */
+	top: 22px;
+	left: 74px;
+	border-radius: 4px;
+	position: absolute;
+}
+
+.p_account {
+	position: absolute;
+	top: 55px;
+	left: 10px;
+	color: #6b76ff;
+}
+
+.bt_primary {
+	/* position: absolute; */
+	margin: 25px;
+	/* top: 55px; */
+	float: right;
+	height: 26px;
+	padding-top: 2px;
+}
+
+/* 名称 */
+.span_name {
+	line-height: 40px;
+	/* margin: 0 10px; */
+	margin-left: 10px;
+	margin-right: 65px;
+}
+
+.san_name {
+	line-height: 40px;
+	margin: 0 10px;
+	margin-right: 65px;
+}
+
+.bt_users {
+	float: right;
+	margin: 7px 22px;
+	padding: 6px 27px;
+	height: 26px;
+	padding-top: 2px;
+}
+
+.bt_userss {
+	float: right;
+	margin: 7px 22px;
+	padding: 6px 27px;
+	height: 26px;
+	padding-top: 2px;
+}
+
+.bt_bot {
+	padding: 2px 20px;
+}
+
+.name_ding {
+	margin-left: 15px;
+}
+
+.name_dings {
+	margin-left: 12px;
+}
+
+.uers_span {
+	margin-left: 1px;
+}
+
+.qq_users {
+	margin-left: 5px;
+}
+
+.heads {
+	width: 300px;
+	height: 240px;
+}
+
+.btin {
+	margin: 156px auto;
+	width: 300px;
+	height: 240px;
+}
+
+.nyorientations {
+	position: absolute;
+	top: 24px;
+	left: 651px;
+}
+
+.myorientation {
+	height: 400px;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+
+.my_orientation {
+	height: 70px;
+	position: relative;
+}
+
+.icon_orientation {
+	position: absolute;
+	line-height: 70px;
+	left: 25px;
+	color: #6b76ff;
+}
+
+.my_userorientaion {
+	position: absolute;
+	line-height: 70px;
+	left: 45px;
+	color: #6b76ff;
+}
+
+.provinces {
+	position: absolute;
+	line-height: 70px;
+	left: 120px;
+}
+
+.self-motion {
+	position: absolute;
+	left: 450px;
+	background-color: #6b76ff;
+	height: 27px;
+	padding: 5px 25px;
+	border-radius: 5px;
+	top: 21px;
+	color: #fff;
+}

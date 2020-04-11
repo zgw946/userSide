@@ -1,0 +1,68 @@
+.num1{
+  position: absolute;
+  top: 235px;
+  color: #ccc;
+  left: 600px;
+
+}
+.imports{
+  background-color: #f5f5f5;
+  border: solid 1px #D6D6D6;
+  height:30px;
+  border-radius: 4px 4px 0px 0px;
+  position: relative;
+}
+.butoDropdown{
+  position: absolute;
+  left: 54px;
+  top: 3px;
+}
+.Icontou{
+  position: absolute;
+  left: 21px;
+  top: 7px;
+}
+.TextArease{
+  border-radius: 0 0 4px 4px;
+  resize: none;
+}
+.jcs{
+  position: absolute;
+  left: 141px;
+  top: 9px;
+}
+.xhxs{
+  position: absolute;
+  left: 163px;
+  top: 9px;
+}
+.zdqs{
+  position: absolute;
+  left: 187px;
+  top: 9px;
+}
+.jzs{
+  position: absolute;
+  left: 215px;
+  top: 9px;
+}
+.ydqs{
+  position: absolute;
+  left: 243px;
+  top: 9px;
+}
+.cs1{
+  position: absolute;
+  left: 574px;
+  top: 9px;
+}
+.cs2{
+  position: absolute;
+  left: 600px;
+  top: 9px;
+}
+.kds{
+  position: absolute;
+  left: 625px;
+  top: 9px;
+}

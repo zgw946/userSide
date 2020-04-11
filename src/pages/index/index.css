@@ -1,0 +1,171 @@
+.user_index {
+	width: 100%;
+	height: auto;
+	background-color: #f5f5f5;
+	margin-bottom: 25px;
+}
+
+.home_index {
+	width: 1200px;
+	height: 100%;
+	margin: 0 auto;
+}
+
+.law_consult {
+	width: 800px;
+	height: 350px;
+	background: #fff;
+	border-radius: 8px;
+	float: left;
+	margin-top: 20px;
+}
+
+.law_login {
+	width: 360px;
+	height: 350px;
+	background: #fff;
+	border-radius: 8px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 20px;
+	padding: 25px 25px 25px 25px;
+}
+
+.law_square {
+	width: 800px;
+	/* height: 770px; */
+	background: #fff;
+	border-radius: 8px;
+	margin-top: 20px;
+	float: left;
+	margin-bottom: 30px;
+}
+
+.law_synthesize {
+	margin-left: 40px;
+	margin-top: 20px;
+	float: left;
+}
+
+.law_message {
+	width: 360px;
+	background: #fff;
+	border-radius: 8px;
+	padding-bottom: 20px;
+}
+
+.law_introduce {
+	width: 360px;
+	/* height: 226px; */
+	background: #fff;
+	border-radius: 8px;
+	margin-top: 20px;
+	padding-bottom: 20px;
+}
+
+.nav_consult {
+	width: 100%;
+	height: 45px;
+	border-bottom: 1px solid #e6e6e6;
+	padding: 14px 24px;
+}
+
+.consult_content {
+	width: 234px;
+	/* height: 172px; */
+	background: #f5f5f5;
+	border-radius: 8px 8px 8px 8px;
+	margin: 14px 0px 0px 24px;
+	padding: 10px;
+}
+
+.law_btnContent {
+	width: 200px;
+	height: 30px;
+	/* background: #2e3341; */
+	border-radius: 15px;
+	font-size: 12px;
+	color: #fff;
+	margin: 5px 0px 0px 7px;
+}
+
+.law_chat {
+	width: 126px;
+	height: 25px;
+	background: rgba(141, 198, 255, 1);
+	border-radius: 8px 0px 8px 8px;
+	padding: 2px 12px;
+	margin-top: 15px;
+	float: right;
+	margin-right: 15px;
+}
+
+.law_login_btn {
+	position: relative;
+	text-align: center;
+}
+
+.law_hx_xian {
+	border-bottom: 1px solid #ccc;
+	width: 26px;
+	position: absolute;
+	left: 80px;
+	top: 11px;
+}
+
+.law_hx_xian2 {
+	border-bottom: 1px solid #ccc;
+	width: 26px;
+	position: absolute;
+	left: 200px;
+	top: 11px;
+}
+
+.law_wx {
+	display: block;
+	text-align: center;
+	margin-top: 18px;
+	width: 15px;
+	margin-left: 150px;
+}
+
+.law_Avatar {
+	text-align: center;
+	margin-top: 15px;
+}
+
+.law_user_area {
+	text-align: center;
+	margin-top: 15px;
+}
+
+.law_sixTime {
+	text-align: center;
+	margin-top: 30px;
+}
+
+.law_leftSix {
+	float: left;
+	margin-left: 79px;
+}
+
+.law_contentTime {
+	float: left;
+}
+
+.law_rightPost {
+	float: left;
+}
+
+.law_Divider {
+	height: 20px;
+	margin: 10px 20px 0px 20px;
+	background: #333;
+	font-weight: bold;
+	width: 1px;
+}
+
+.law_Divider_user {
+	width: 360px;
+	margin-left: -24px;
+}

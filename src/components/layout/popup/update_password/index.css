@@ -1,0 +1,235 @@
+/* 修改用户名 */
+.users_portrait {
+    width: 500px;
+	height: 270px;
+	border-radius: 5px;
+	position: relative;
+}
+
+.progress_dialog {
+	margin: 153px auto;
+}
+
+/* .ant-modal-body{
+    padding: 0;
+  
+} */
+.head_portrait {
+    width: 500px;
+	height: 60px;
+	border-radius: 5px;
+	/* background-color: #6b76ff; */
+}
+
+.p_protrait {
+	text-align: center;
+	line-height: 60px;
+	font-size: 19px;
+	border-radius: 5px;
+	/* color: #FFF; */
+}
+
+.dddddd {
+	border-radius: 5px;
+}
+
+.typeinpus {
+	position: absolute;
+	top: 96px;
+	left: 170px;
+	width: 300px;
+	padding: 5px;
+}
+
+.nicheng {
+	position: absolute;
+	top: 104px;
+	left: 85px;;
+	font-weight: bold;
+}
+.nichengs {
+	position: absolute;
+	top: 71px;
+	left: 85px;;
+	font-weight: bold;
+}
+
+.genggai {
+	position: absolute;
+	top: 153px;
+	left: 87px;
+	font-weight: bold;
+}
+
+.typeinpu {
+	position: absolute;
+	top: 146px;
+	left: 170px;
+	width: 300px;
+	padding: 5px;
+}
+
+.p_text {
+	position: absolute;
+	top: 186px;
+	left: 172px;
+	font-size: 12px;
+	color: #666;
+}
+
+.p_passwords {
+	position: absolute;
+	top: 129px;
+	left: 172px;
+	font-size: 12px;
+	color: #CCCCCC;
+	white-space: nowrap;
+}
+
+.p_link {
+	position: absolute;
+	top: 246px;
+    left: 481px;
+	font-size: 12px;
+	color: #6b76ff;
+	white-space: nowrap;
+}
+
+.foost_btns {
+	position: absolute;
+    top: 220px;
+    left: 213px;
+}
+
+.code {
+	position: absolute;
+	top: 142px;
+	left: 170px;
+	width: 200px;
+	padding: 5px;
+}
+
+.btn_code {
+	position: absolute;
+	top: 142px;
+	left: 380px;
+	width: 91px;
+	height: 34px;
+}
+
+.my_users {
+	position: relative;
+	margin: 0 auto;
+}
+
+.users_dialog {
+	/* position: absolute; */
+	margin-top: 34px;
+	right: 60px;
+
+}
+
+.modal-open .modal {
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+/* .readonly input {
+	border: none;
+  } */
+.close_btn {
+	position: absolute;
+	top: 6px;
+	left: 580px;
+}
+
+.modal_dialog {
+	position: absolute;
+	top: 55px;
+}
+
+.advisorys {
+	position: absolute;
+	top: 55px;
+}
+
+.inquire {
+	position: absolute;
+	top: 5px;
+	left: 580px;
+}
+
+.mycloses {
+	position: absolute;
+	top: 5px;
+	left: 580px;
+}
+
+.fade_modals {
+	margin-top: 70px;
+}
+
+.boutts {
+	width: 85px;
+	height: 30px;
+	margin-right: 10px;
+}
+
+.subtract {
+	width: 240px;
+	height: 150px;
+	/* background-color: #6b76ff; */
+	position: relative;
+}
+
+.bangdign {
+	width: 242px;
+	position: relative;
+	height: 150px;
+	/* top: 44px; */
+	margin: 170px auto;
+	/* background-color: #6b76ff; */
+}
+
+.tripartite {
+	position: absolute;
+	top: 109px;
+	left: 40px;
+}
+
+.charac {
+	position: absolute;
+	text-align: center;
+	top: 44px;
+	left: 50px;
+}
+
+.subtracts {
+	position: absolute;
+	top: 20px;
+	left: 222px;
+}
+
+.foothernav {
+	height: 100px;
+	background-color: #6b76ff;
+
+}
+
+.p_foothernav {
+	text-align: center;
+	line-height: 90px;
+	color: #fff;
+}
+
+.navfooster {
+	width: 100%;
+	height: 80px;
+
+}
+
+.p_navfooster {
+	color: #FFF;
+	text-align: center;
+	line-height: 80px;
+}

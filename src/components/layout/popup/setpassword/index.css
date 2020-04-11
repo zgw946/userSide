@@ -1,0 +1,89 @@
+.shuxian {
+	padding-left: 15px;
+	border-right: 1px solid #ccc;
+}
+
+.hx {
+	border-bottom: 1px solid #ccc;
+	width: 26px;
+	position: absolute;
+	left: 100px;
+	top: 11px;
+}
+
+.hxs {
+	border-bottom: 1px solid #ccc;
+	width: 26px;
+	position: absolute;
+	left: 223px;
+	top: 11px;
+}
+
+.dsf {
+	color: #ccc;
+}
+
+.login_lu {
+	position: relative;
+	text-align: center;
+	margin-top: 15px;
+}
+
+.icone {
+	position: absolute;
+	margin-top: 8px;
+	margin-left: 104px;
+	width: 20px;
+	height: 20px;
+	background: #ccc;
+	border-radius: 50%;
+
+	z-index: 1;
+	border: 1px solid #ccc;
+}
+
+.icones {
+	position: absolute;
+	margin-top: 8px;
+	margin-left: 225px;
+	width: 20px;
+	height: 20px;
+	background: #ccc;
+	border-radius: 50%;
+
+	z-index: 1;
+	border: 1px solid #ccc;
+}
+
+.yuandian {
+	height: 40px;
+	position: relative;
+}
+
+.iconev {
+	position: absolute;
+	left: 165px;
+	top: 12px;
+}
+
+.login_s {
+	color: #6b76ff;
+	bottom: 10px;
+}
+
+.login_L {
+	position: relative;
+}
+
+.log_zhu {
+	position: absolute;
+	left: 161px;
+	font-size: 16px;
+	font-weight: bold;
+	bottom: 10px;
+}
+
+.colse {
+	font-size: 12px;
+	color: #ccc;
+}

@@ -1,0 +1,22 @@
+.order {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.myOrder {
+    margin-left: 200px;
+    margin-top: 60px;
+}
+
+.law_explain {
+    width: 800px;
+    word-break: break-all;
+    overflow: hidden;
+    word-wrap: break-word;
+    margin-top: 15px;
+    position: relative;
+}
+
+.weChatPay {
+    text-align: center;
+}

@@ -1,0 +1,370 @@
+.headerdiscuss {
+	width: 100%;
+	background-color: #fff;
+}
+
+.header_open {
+	height: 116px;
+	background-color: #fff;
+	width: 1200px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.discuss_zs {
+	position: absolute;
+	top: 22px;
+	left: 20px;
+}
+
+.discuss_ls {
+	position: absolute;
+	top: 22px;
+	left: 1130px;
+	font-size: 14px;
+	color: #8a8b99;
+}
+
+.discuss_les {
+	position: absolute;
+	top: 22px;
+	left: 1080px;
+	font-size: 14px;
+	color: #8a8b99;
+}
+
+.discuss_bts {
+	position: absolute;
+	left: 20px;
+	top: 59px;
+}
+
+.discuss_icos {
+	position: absolute;
+	left: 90px;
+	top: 64px;
+}
+
+.discuss_pl {
+	position: absolute;
+	left: 113px;
+	top: 60px;
+	color: #8a8b99;
+}
+
+.discuss_img {
+	position: absolute;
+	left: 211px;
+	top: 65px;
+}
+
+.discuss_fx {
+	position: absolute;
+	left: 241px;
+	top: 60px;
+	color: #8a8b99;
+}
+
+.discuss_num {
+	position: absolute;
+	top: 60px;
+	left: 1143px;
+}
+
+.discuss_zscq {
+	position: absolute;
+	top: 60px;
+	left: 1079px;
+}
+
+.discuss_user {
+	/* height: 274px; */
+	background-color: #fff;
+	width: 1200px;
+	margin: 0 auto;
+	position: relative;
+	margin-top: 90px;
+	border-radius: 5px 5px 0px 0px;
+	padding: 60px 20px;
+}
+
+.discuss_users {
+	/* height: 100%; */
+	background-color: #fff;
+	width: 1200px;
+	margin: 0px auto;
+	position: relative;
+	border-radius: 4px;
+	margin-bottom: 90px;
+	border-top: 1px solid #ccc;
+}
+
+.userbtn {
+	height: 200px;
+	width: 1200px;
+	border-bottom: 1px solid #ccc;
+}
+
+.hangxians {
+	position: absolute;
+	border-bottom: 1px solid #ccc;
+	width: 1100px;
+	left: 42px;
+	top: 195px;
+}
+
+.Avatars {
+	position: absolute;
+	top: 24px;
+	left: 20px;
+}
+
+.discuss_yhs {
+	position: absolute;
+	top: 20px;
+	left: 55px;
+	font-size: 14px;
+}
+
+.disccuss_dw {
+	position: absolute;
+	top: 46px;
+	left: 54px;
+	font-size: 12px;
+	color: #ccc;
+}
+
+.discuss_gsz {
+	position: absolute;
+	top: 43px;
+	left: 72px;
+	font-size: 12px;
+	color: #ccc;
+}
+
+.duscss_guanzhu {
+	position: absolute;
+	left: 1072px;
+	top: 20px;
+}
+
+.P_wenzi {
+	width: 1105px;
+	word-break: break-all;
+	margin: 10px 38px;
+}
+
+.P_wenzi2 {
+	width: 1105px;
+	word-break: break-all;
+	/* position: absolute;
+    top: 75px;
+    left: 54px; */
+	margin: 10px 38px;
+}
+
+.p_riqi {
+	position: absolute;
+	left: 54px;
+	top: 160px;
+	color: #ccc;
+}
+
+.p_riqis {
+	position: absolute;
+	left: 54px;
+	top: 100px;
+	color: #ccc;
+}
+
+.discuss_shou {
+	/* position: absolute;
+    top: 204px;
+    left: 55px; */
+	margin: 20px 0px 0px 0px;
+}
+
+.discuss_shous {
+	position: absolute;
+	top: 140px;
+	left: 53px;
+}
+
+.discuss_didi {
+	position: absolute;
+	top: 208px;
+	left: 137px;
+}
+
+.discuss_didis {
+	position: absolute;
+	top: 146px;
+	left: 137px;
+}
+
+.discuss_psl {
+	position: absolute;
+	top: 204px;
+	left: 163px;
+}
+
+.discuss_psls {
+	position: absolute;
+	top: 143px;
+	left: 163px;
+}
+
+.discuss_imgs {
+	position: absolute;
+	top: 209px;
+	left: 247px;
+}
+
+.discuss_imgss {
+	position: absolute;
+	top: 147px;
+	left: 232px;
+}
+
+.discuss_fxs {
+	position: absolute;
+	top: 205px;
+	left: 267px;
+}
+
+.discuss_fxss {
+	position: absolute;
+	top: 144px;
+	left: 260px;
+}
+
+/*  */
+.num1 {
+	position: absolute;
+	top: 235px;
+	color: #ccc;
+	left: 600px;
+}
+
+.mywod {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.imports {
+	width: 1200px;
+	background-color: #f5f5f5;
+	border: solid 1px #d6d6d6;
+	height: 30px;
+	border-radius: 4px 4px 0px 0px;
+	position: relative;
+	margin: 0 auto;
+}
+
+.butoDropdown {
+	position: absolute;
+	left: 54px;
+	top: 3px;
+}
+
+.Icontou {
+	position: absolute;
+	left: 21px;
+	top: 7px;
+}
+
+.TextArease {
+	border-radius: 0 0 4px 4px;
+	resize: none;
+	margin: 0 auto;
+}
+
+.jcs {
+	position: absolute;
+	left: 141px;
+	top: 9px;
+}
+
+.xhxs {
+	position: absolute;
+	left: 163px;
+	top: 9px;
+}
+
+.zdqs {
+	position: absolute;
+	left: 187px;
+	top: 9px;
+}
+
+.jzs {
+	position: absolute;
+	left: 215px;
+	top: 9px;
+}
+
+.ydqs {
+	position: absolute;
+	left: 243px;
+	top: 9px;
+}
+
+.cs1 {
+	position: absolute;
+	left: 1110px;
+	top: 9px;
+}
+
+.cs2 {
+	position: absolute;
+	left: 1137px;
+	top: 9px;
+}
+
+.kds {
+	position: absolute;
+	left: 1165px;
+	top: 9px;
+}
+
+.userbtntwo {
+	margin-top: 20px;
+	padding: 20px 20px;
+	border-bottom: 1px solid #ccc;
+	/* margin-bottom: 40px; */
+}
+
+.userbtntwos {
+	/* margin-top: 20px; */
+	padding: 20px 20px;
+	/* border-bottom: 1px solid #ccc; */
+	margin-bottom: 40px;
+}
+
+.view_detailed {
+	margin-top: 20px;
+	/* width: 1000px;
+    height: 280px; */
+	border: 1px solid #ccc;
+	border-radius: 6px;
+	margin-left: 30px;
+}
+
+.comment_num {
+	border-bottom: 1px solid #ccc;
+	margin: 15px 0px;
+	padding-bottom: 15px;
+	font-weight: bold;
+}
+
+.userbtn_nametwo {
+	/* border-bottom: 1px solid #ccc; */
+	margin: 15px 20px;
+	padding-bottom: 15px;
+}
+
+.userbtn_name {
+	border-bottom: 1px solid #ccc;
+	margin: 15px 20px;
+	padding-bottom: 15px;
+}

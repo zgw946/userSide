@@ -1,0 +1,89 @@
+.newlys {
+    position: relative;
+}
+
+.xz_newlys {
+    font-size: 16px;
+    color: #393e46;
+    font-weight: bold;
+}
+
+.ax_newlys {
+    font-size: 14px;
+    color: rgba(51, 51, 51, 1);
+    top: 35px;
+    position: absolute;
+}
+
+.axlx_newlys {
+    font-size: 14px;
+    color: rgba(51, 51, 51, 1);
+    top: 104px;
+    left: 1px;
+    position: absolute;
+}
+
+.lx_newlys {
+    font-size: 14px;
+    color: rgba(51, 51, 51, 1);
+    position: absolute;
+    top: 172px;
+}
+
+.addIcon {
+    position: absolute;
+    top: 288px;
+    left: 86px;
+    color: #000;
+}
+
+.uploadfile {
+    width: 452px;
+    height: 30px;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    margin-top: 40px;
+}
+
+.cailiao {
+    line-height: 30px;
+    margin-left: 10px;
+}
+
+.files {
+    color: #84aafb;
+}
+
+.deleteIcon {
+    float: right;
+    line-height: 30px;
+    margin-right: 10px;
+    color: #84aafb;
+    cursor: pointer;
+}
+
+.ms_newlys {
+    font-size: 14px;
+    color: rgba(51, 51, 51, 1);
+    position: absolute;
+    top: 249px;
+}
+
+.ms_num {
+    font-size: 14px;
+    color: #ccc;
+    position: absolute;
+    top: 368px;
+    left: 402px;
+    font-size: 12px;
+}
+
+.mytextAreas {
+    margin-top: 40px;
+    resize: none;
+}
+
+.sends {
+    margin-top: 20px;
+    margin-left: 184px;
+}

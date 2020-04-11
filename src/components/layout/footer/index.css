@@ -1,0 +1,17 @@
+.footer {
+    background-color: #292d39;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
+
+.icp_box{
+  width: 151px;
+  margin: 0 auto;
+}
+
+.icp {
+  color: #ffffff;
+  line-height: 40px;
+  margin: 0 auto;
+}

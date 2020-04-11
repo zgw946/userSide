@@ -1,0 +1,60 @@
+.user_collect {
+	background-color: #fff;
+	padding-top: 14px;
+	width: 563px;
+	margin: 10px 20px;
+	/* overflow: auto; */
+    border-radius: 5px;
+    overflow: hidden;
+    padding: 15px 0px;
+}
+.enshrine {
+	height: 40px;
+	background-color: #fff;
+	padding: 12px 221px;
+	font-weight: bold;
+}
+
+.bgcol {
+	background-color: #f5f5f5;
+	height: 446px;
+	width: 604px;
+	margin-left: 196px;
+	border-radius: 5px;
+    padding: 15px 0px;
+   
+}
+
+.user_location {
+	margin-right: 5px;
+	font-size: 12px;
+}
+.user_like_num {
+	font-size: 12px;
+	color: #999;
+	margin-right: 15px;
+}
+.user_comment_num {
+	font-size: 12px;
+	color: #999;
+	margin-right: 10px;
+}
+.user_area_name {
+	font-size: 12px;
+	color: #999;
+	margin-right: 10px;
+}
+.contents {
+	width: 350px;
+	margin: 0 20px;
+	font-size: 14px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	float: left;
+}
+.users_familys {
+	margin: 0 20px;
+	color: #6b76ff;
+	float: left;
+}

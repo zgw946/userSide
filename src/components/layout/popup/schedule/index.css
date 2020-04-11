@@ -1,0 +1,73 @@
+.schedule {
+    /* width: 600px;  */
+	/* height: 450px; */
+    background-color: #fff;
+	border-radius: 7px;
+	position: relative;
+}
+
+.my_schedule {
+	height: 40px;
+	position: relative;
+	/* background-color: #6b76ff; */
+}
+
+.myp_schedule {
+	/* position: absolute; */
+	line-height: 40px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.date_time {
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+}
+.roundness {
+    width: 12px;
+    height: 12px;
+    background: rgba(107, 118, 255, 1);
+    border-radius: 50%;
+	position: absolute;
+    margin: 6px 0px 0px 10px;
+}
+
+.roundnesss {
+    width: 12px;
+    height: 12px;
+    background: rgba(107, 118, 255, 1);
+    border-radius: 50%;
+	position: absolute;
+    margin: 6px 0px 0px 35px;
+}
+
+.roundne3 {
+    width: 10px;
+    height: 10px;
+    background: #f9346a;
+    border-radius: 50%;
+	position: absolute;
+    margin: 6px 0px 0px 0px;
+}
+.assignments {
+	height: 240px;
+	/* background-color: #ccc; */
+	border-radius: 7px;
+    margin-top: 20px;
+}
+
+.begin {
+    font-size: 14px;
+    color: #999999;
+}
+
+.end {
+    font-size: 14px;
+    color: #999999;
+}
+
+.timex {
+    font-size: 14px;
+    color: #999999;
+    margin-left: 4px;
+}

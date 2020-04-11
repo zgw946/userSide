@@ -1,0 +1,13 @@
+.expert_consult {
+    width: 500px;
+    background-color: #f5f6fa;
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin: 15px 93px;
+    float: left;
+}
+
+.inputBase {
+    position: absolute;
+    bottom: 0;
+}

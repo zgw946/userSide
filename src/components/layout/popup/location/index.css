@@ -1,0 +1,334 @@
+.myorientation {
+	/* height: 400px; */
+	margin: 0 auto;
+	border-radius: 10px;
+	/* background-color: #ccc; */
+}
+
+.my_orientation {
+	height: 70px;
+	/* background-color: #6b76ff; */
+	position: relative;
+}
+
+.icon_orientation {
+	position: absolute;
+	line-height: 70px;
+	left: 23px;
+	color: #6b76ff;
+}
+
+/* .ant-modal-body{
+    padding: 0;
+  
+} */
+.myconfirm {
+	position: absolute;
+	padding: 5px 73px;
+	/* text-align: center; */
+	left: 249px;
+	bottom: 12px;
+}
+.my_userorientaion {
+	position: absolute;
+	line-height: 70px;
+	left: 41px;
+	color: #6b76ff;
+}
+
+.provinces {
+	position: absolute;
+	line-height: 70px;
+	left: 120px;
+}
+
+.self-motion {
+	position: absolute;
+	left: 450px;
+	background-color: #6b76ff;
+	height: 27px;
+	padding: 5px 25px;
+	border-radius: 5px;
+	top: 21px;
+	color: #fff;
+}
+
+/* 热门城市 */
+.mycitys {
+	height: 40px;
+	background-color: #fff;
+	position: relative;
+}
+
+.city_btn {
+	position: absolute;
+	width: 50px;
+	top: 5px;
+	left: 118px;
+}
+
+.sh_city {
+	position: absolute;
+	width: 50px;
+	top: 5px;
+	left: 180px;
+}
+
+.gz_city {
+	position: absolute;
+	width: 50px;
+	top: 5px;
+	left: 240px;
+}
+
+.sz_city {
+	position: absolute;
+	width: 50px;
+	top: 5px;
+	left: 302px;
+}
+
+.re_city {
+	position: absolute;
+	left: 25px;
+	line-height: 40px;
+	color: #6b76ff;
+}
+
+.reciyt {
+	position: absolute;
+	line-height: 40px;
+	left: 42px;
+	color: #6b76ff;
+}
+
+/* 省份 */
+.province {
+	height: 150px;
+	/* background-color: #6b76ff; */
+	position: relative;
+}
+
+.glyphicon_flag {
+	/* position: absolute; */
+	margin: 2px 0px 0px 52px;
+	float: left;
+	color: #6b76ff;
+}
+
+.glyphicon_flags {
+	/* position: absolute; */
+	margin: 12px 0px 0px 46px;
+	float: left;
+	color: #6b76ff;
+}
+
+.mypro {
+	/* position: absolute; */
+	/* left: 45px;
+    top: 18px; */
+	color: #6b76ff;
+	margin: 0px 0px 0px 4px;
+	float: left;
+}
+
+.mypro2 {
+	/* position: absolute; */
+	/* left: 45px;
+    top: 18px; */
+	color: #6b76ff;
+	margin: 8px 0px 0px 6px;
+	float: left;
+}
+
+.gds_pro {
+	position: absolute;
+	left: 119px;
+	top: 11px;
+}
+
+.gds_pros {
+	position: absolute;
+	left: 119px;
+	top: 55px;
+}
+
+.gds_1 {
+	position: absolute;
+	left: 119px;
+	top: 98px;
+}
+
+.gds_2 {
+	position: absolute;
+	left: 209px;
+	top: 98px;
+}
+
+.gds_3 {
+	position: absolute;
+	left: 300px;
+	top: 98px;
+}
+
+.gds_4 {
+	position: absolute;
+	left: 391px;
+	top: 98px;
+}
+
+.my_5 {
+	position: absolute;
+	left: 479px;
+	top: 98px;
+}
+
+.gds_cty {
+	position: absolute;
+	left: 209px;
+	top: 11px;
+}
+
+.gds_ctyss {
+	position: absolute;
+	left: 209px;
+	top: 55px;
+}
+
+.gds_ctys {
+	position: absolute;
+	left: 300px;
+	top: 11px;
+}
+
+.gds_ctysc {
+	position: absolute;
+	left: 300px;
+	top: 55px;
+}
+
+.gds_my {
+	position: absolute;
+	left: 391px;
+	top: 11px;
+}
+
+.gds_mys {
+	position: absolute;
+	left: 391px;
+	top: 55px;
+}
+
+.my_gadd {
+	position: absolute;
+	left: 479px;
+	top: 11px;
+}
+
+.my_gadds {
+	position: absolute;
+	left: 479px;
+	top: 55px;
+}
+
+.mygs_sd {
+	position: absolute;
+	left: 568px;
+	top: 11px;
+}
+
+.mygs_sds {
+	position: absolute;
+	left: 568px;
+	top: 55px;
+}
+
+.yuan1 {
+	position: absolute;
+	left: 573px;
+	top: 65px;
+	width: 10px;
+	height: 10px;
+	background-color: #6b76ff;
+	border-radius: 10px;
+}
+
+.yuan2 {
+	position: absolute;
+	left: 586px;
+	top: 65px;
+	width: 10px;
+	height: 10px;
+	background-color: #6b76ff;
+	border-radius: 10px;
+}
+
+.yuan3 {
+	position: absolute;
+	left: 599px;
+	top: 65px;
+	width: 10px;
+	height: 10px;
+	background-color: #6b76ff;
+	border-radius: 10px;
+}
+
+/* 我的头像 */
+.div_heads {
+	width: 300px;
+	height: 50px;
+	border-bottom: #6b76ff 1px solid;
+}
+
+.p_heads {
+	line-height: 50px;
+	margin: 0 10px;
+}
+
+.div_content {
+	margin: 19px 0px;
+	width: 300px;
+	height: 130px;
+	padding-bottom: 150px;
+	/* background-color: #6b76ff; */
+	border-bottom: #6b76ff 1px solid;
+}
+
+.uploadings {
+	width: 150px;
+	height: 105px;
+	background-color: #ccc;
+	float: left;
+	margin-top: 13px;
+	margin-left: 10px;
+	border-radius: 5px;
+}
+
+.renewal {
+	margin-top: 13px;
+	margin-left: 10px;
+}
+
+.btn_uploadings {
+	float: right;
+	margin-top: 5px;
+	margin-right: 10px;
+}
+
+.subscribe {
+	margin-left: 10px;
+}
+
+.span_subscribe {
+	float: right;
+	width: 45px;
+	height: 45px;
+	background-color: #ccc;
+	border-radius: 5px;
+	margin-left: 10px;
+	margin-top: -18px;
+	margin-right: 10px;
+}
+.fosst {
+	margin: 30px 0px 0px 281px;
+}
